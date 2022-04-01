@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="30"><page Index="1"/><page Index="2"><![CDATA[INDICE
+
+
+
+
+
+                                                              CAPITULO 3: EJEMPLOS Y
+
+                                                                     APLICACIONES
+
+
+                                                           3.1. EJEMPLO DE UNA FÁBRICA
+
+
+
+
+                                                           3.2. EXPORTANDO MAQUINAS
+
+
+                                                           3.3. AÑADIENDO BOTONES
+                                                           INTERACTIVOS
+
+
+
+                                                            3.4. TOUR VIRTUAL APLICANDO UN
+                                                            FONDO
+
+
+                                                            3.5. GUARDAR PROYECTO Y
+                                                            RENDERIZADO]]></page><page Index="3"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                         DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                               CAPITULO 3: ESTUDIOS DE CASO
+
+
+
+
+                                     3.1. EJEMPLO DE UNA FÁBRICA
+
+
+
+
+
+
+
+
+                                     1. Se tiene el modelo
+
+                                     en Sketch Up de una
+                                     Fábrica de Vino.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  1]]></page><page Index="4"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                    DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              2.                 Ahora
+
+                                                                                           procedemos                   a
+                                                                                           exportar  el  modelo
+                                                                                           haciendo  click  en
+
+                                                                                           Archivo, Exportar y en
+                                                                                           Modelo 3D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                             2]]></page><page Index="5"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                             DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                    3.          Posteriormente
+                                                                                                    exportamos  el  archivo
+
+                                                                                                    en formato .fbx.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    3]]></page><page Index="6"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                   DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                      4.  Una  vez  que  se  haya
+
+                      terminado  de  exportar,
+                      nos  vamos  a  Unity  y
+
+                      arrastramos  el  archivo
+
+                      “.fbx”  a  la  carpeta  de
+                      Assets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  5. Ahora arrastramos el
+
+                                                                                  archivo a la escena y
+                                                                                  modificamos la escala
+
+                                                                                  de tamaño a nuestra
+
+                                                                                  preferencia.                                             4]]></page><page Index="7"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                          DE INGENIERIA DE METODOS
+
+
+
+
+
+                                                                                       Para  darle  iluminación
+                                         6.    Como         se     puede
+                                         observar         el     modelo                hacemos  click  en  la
+                                                                                       pequeña          flecha      de
+                                         estará         obscuro          al
+                                                                                       Jerarquia,  en  la  opción
+                                         principio.
+                                                                                       Light  y  Directional  Light
+                                                                                       preferencia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                   Ahora  podremos  regular
+
+                                                                                                                   la intensidad de luz y otras
+                                                                                                                   características         en      las
+
+                                                                                                                   opciones  de  la  ventana
+
+                                                                                                                   Inspector de la derecha.
+
+                    5]]></page><page Index="8"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                      DE INGENIERIA DE METODOS
+
+
+
+
+                                3.2. TOUR VIRTUAL
+
+
+
+
+
+
+
+                                                                                 1.-  Una  vez  que  tengamos
+
+                                                                                 nuestra       planta       debemos
+
+                                                                                 crear  una  capsula  en  la
+
+                                                                                 ventana de créate.
+
+
+               .
+
+
+
+
+                  2.-  ahora  llevaremos
+
+                  la     cámara         (Main
+                  Camera) dentro de la
+
+                  capsula,  y  debemos
+                 colocarlas ambas en
+                  la misma posición.
+
+
+
+                                                                                                                                           6]]></page><page Index="9"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                        3.- Debemos agregar dentro
+                                                                                                        de la capsula el
+
+                                                                                                        componente Rigidbody.
+
+
+
+
+
+                                                       4.-  también  debemos
+
+                                                       agregarle                    un
+
+                                                       componente script a la
+
+
+                                                       capsula,  el  cual  será
+
+                                                       nuestro controlador.
+
+
+                     7
+
+                     7]]></page><page Index="10"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                     DE INGENIERIA DE METODOS
+
+
+
+
+
+
+                                    5.-  Abrir  script,  comenzar  a  programar,  para
+
+                                    que  pulsando  las  teclas  W/S  lo  que  vamos  a
+                                    hacer es cambiar la posición Z del personaje,
+                                    con las teclas A/D cambiaremos la posición X
+                                    del  personaje,  también  cuando  movamos  el
+
+                                    mouse hacia la izquierda y a la derecha lo que
+
+                                    haremos es cambiar la rotación del personaje,
+
+                                    cuando  movamos  el  mouse  de  arriba  hacia
+                                    abajo cambiaremos la rotación de la cámara,
+
+                                    luego  guardamos  nuestro  script  y  volvemos a
+                                    Unity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                         8]]></page><page Index="11"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+                                                                               6.- Hacemos click en
+
+                                                                               play      y     podemos
+
+                                                                               empezar  a  hacer  el
+                                                                               recorrido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    9]]></page><page Index="12"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                      DE INGENIERIA DE METODOS
+
+
+
+                              3.3. AÑADIENDO BOTONES INTERACTIVOS
+
+
+
+
+
+
+
+                       Ya que tenemos nuestro tour virtual establecido, le agregaremos
+                       un botón que sea capaz de mostrar el texto de características de
+
+                       algún proceso, o algún texto de preferencia.
+
+
+
+
+                                                                                         Entonces
+
+                                                                                         acomodamos                 y
+                                                                                         dimensionamos
+                                                                                         cada  uno  de  los
+                                                                                         elementos a nuestra
+
+                                                                                         preferencia.
+
+
+
+
+
+
+                                                                   Para  añadir  un  botón  seguimos  los
+                                                                   mismos pasos del punto 2.14 de este
+
+                                                                   curso,  empezando  por  añadir  el
+
+                                                                   botón  y  armando  el  panel  con  el
+
+                                                                   contenido  que  queramos,  que
+                                                                   puede ser texto o imagen.                                             10]]></page><page Index="13"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                   2.  Para este ejemplo añadiremos un
+
+                                                                                                       texto que diga “CARACTERISTICAS
+                                                                                                       DEL PASTEURIZADO” en relación al
+
+                                                                                                       proceso en el que hemos situado
+                                                                                                       el botón.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   11]]></page><page Index="14"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                   DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+                      3.  Ahora  desaparecemos  el
+
+                      panel  con  el  check  de  la
+
+                      ventana Inspector y creamos el
+                      script para abrir el panel, al que
+
+                      llamaremos “AbridorDePanel”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                         12]]></page><page Index="15"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  4. Hacer doble click en el script para abrir
+                                                                                  en  Visual  Studio  y  programar  el  mismo
+
+                                                                                  código  que  se  utilizó  en  el  punto  2.14  de
+                                                                                  este curso.
+
+
+
+
+
+                    13]]></page><page Index="16"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                         DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+                              5.  Volver  a  Unity  y  arrastrar  el
+
+                              script a la pestaña de Button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                        14]]></page><page Index="17"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          6. También arrastrar el panel a la
+
+
+                                          opción de Panel de la pestaña de
+                                          Button
+
+
+                    15]]></page><page Index="18"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+                     7.  Ya  estará  listo  el  botón  para  que  pueda
+                     mostrar el texto o imagen, en este caso se limita
+                     a hacer correr el programa con el modelo de
+                     la  fabrica  debido  a  la  versión  de  tarjeta  de
+
+                     video y memoria RAM que se posee. Fuera de
+
+                     ello no debería haber problema.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                         16]]></page><page Index="19"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+                                                3.4. TOUR VIRTUAL APLICANDO UN FONDO
+
+
+
+
+
+
+
+                                                                                                 1.-  Una  vez  que tengamos  nuestra
+
+                                                                                                 planta  se  debe  crear  un  Sprite
+                                                                                                 dentro de la jerarquía (Hierarchy) el
+
+                                                                                                 cual lo llamaremos ´´Fondo´´
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    17]]></page><page Index="20"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                   DE INGENIERIA DE METODOS
+
+
+
+
+                                                               2.-  Hacer click en nuestro Fondo el
+                                                               cual se acaba de crear y nos vamos
+
+                                                               a  la  ventana  Inspector  donde
+                                                               podemos  ver  que  tenemos  un
+
+                                                               componente Sprite Renderer el cual
+
+                                                               nos  va  permitir  realizar  cambios  a
+                                                               nuestro sprite que por defecto viene
+
+                                                               sin ningún tipo de imagen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                        18]]></page><page Index="21"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                            DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           3.-  Verificar  que  todas  las  imágenes  que
+
+                                           queremos  que  aparezcan  como  fondo
+                                           estén en un formato sprite, porque si dichas
+
+                                           imagenes  se  encuentran  en  algún  otro
+                                           formato el sprite no lo reconocerá; y elegir
+
+                                           uno.
+
+
+
+
+                     19]]></page><page Index="22"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                              DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+                                         4.-  Por  ultimo  hacemos
+
+                                         click en play y podemos
+                                         comenzar            con         el
+
+                                         recorrido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                        20]]></page><page Index="23"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                            DE INGENIERIA DE METODOS
+
+
+                                       3.5. GUARDAR PROYECTO Y RENDERIZADO
+
+
+
+
+
+                                      1.- Para el renderizado de nuestros objetos, hacer click en el
+
+                                      objeto a renderizar, luego nos vamos a la ventana inspector
+
+                                      y  en  Mesh  Renderer  podemos  realizar  diferentes  cambios
+
+                                      como el tipo de material y otros; lo mismo podemos hacer
+
+                                      con los demás objetos de nuestra escena.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     17]]></page><page Index="24"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                       DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               2.-  Para  compilar  nuestro
+
+               proyecto e iremos a File, Build
+
+               Settings
+
+
+
+
+
+
+
+          3.- una vez dentro podemos ver que la escena que
+
+          queremos compilar se encuentre ahí dentro, si no
+
+          fuera el caso lo que debemos hacer es arrastrarla
+
+          o añadirla haciendo click en Add Open Scenes
+                                                                                                                                        18]]></page><page Index="25"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                                DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             4.-  Abrir  Player  Settings  y  podemos  ver
+
+                                             todas las características que tiene y ahí es
+                                             donde  podemos  definir  el  nombre  de  la
+
+                                             compañía,  el  nombre  del  producto,  la
+                                             versión.
+
+
+
+                     19]]></page><page Index="26"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                  DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+                                                   5.- Podemos seleccionar el tipo de icono,
+
+                                                   con el cual lo identificaremos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                        20]]></page><page Index="27"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                                                DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     6.- Una vez que lo tengamos configurado
+
+                                                                                     hacemos  click  en  Build  y  seleccionar
+                                                                                     carpetar.
+
+
+
+
+
+                    21]]></page><page Index="28"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+                                                          DE INGENIERIA DE METODOS
+
+
+
+
+                                 7.-  Aparecerá  la  carpeta  con  el  nombre  del
+
+                                 producto que hayamos puesto, ahora podemos
+
+                                 ejecutarlo y poner play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                        22]]></page><page Index="29"><![CDATA[DESARROLLO DE ENTORNOS VIRTUALES PRODUCTIVOS PARA EL APRENDIZAJE
+
+                                                                                DE INGENIERIA DE METODOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    8.- Poner play y podemos comenzar a
+
+                                    hacer el recorrido.
+
+
+
+
+
+
+
+
+
+
+
+                     23]]></page><page Index="30"><![CDATA[]]></page></pages></Search>
